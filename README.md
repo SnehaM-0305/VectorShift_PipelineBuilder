@@ -1,4 +1,4 @@
-# VectorShift — Pipeline Builder (Frontend)
+# VectorShift — Pipeline Builder
 
 ## Getting Started
 
@@ -14,6 +14,7 @@ Run the **backend first** on port `8000`, otherwise **Run Pipeline** will fail.
 ## Frontend
 
 ```bash
+cd frontend
 npm install
 npm start
 ```
